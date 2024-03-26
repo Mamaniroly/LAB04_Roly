@@ -1,0 +1,2 @@
+npm init se utiliza para inicializar un proyecto, cuando ejecutas este comando se crea un archivo
+package.json.
