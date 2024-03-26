@@ -1,0 +1,16 @@
+-Para eliminar una rama local, ejecute git branch -d nombre-rama . Si escribe el comando
+ correctamente, recibirá una respuesta de que la rama ha sido eliminada.
+
+-Porque deveria de usar la ramificacion en proyectos 
+Las ramas te permiten desarrollar características, corregir errores, o experimentar con 
+seguridad las ideas nuevas en un área contenida de tu repositorio.
+
+-Usted recibió un ticket [SEM-005] y una vez terminado el trabajo usted decide crear una rama
+ para un posterior PR. ¿Qué nombre pondría a la rama al momento de crearla?
+
+ Podria darsele un nombre relacionado con el numero de ticket  [SEM-005], se podria seguir una 
+ convension que refleje tanto el proposito de la rama como el numero de ticket como ser:
+
+ feature/SEM-005: Si la rama está destinada a una nueva característica o funcionalidad.
+bugfix/SEM-005: Si la rama soluciona un error específico relacionado con el ticket.
+hotfix/SEM-005: Si es una corrección urgente para un problema crítico
